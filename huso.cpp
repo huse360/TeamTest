@@ -3,6 +3,7 @@
 
 void functionHuso ()
 {
+	//Este es un nuevo comentario
     printf ("Huso, Ok.\n");
 }
 
