@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "julio.h"
 
-void functionChe()
+void functionJulio()
 {
 	//Este es un nuevo comentario
 	printf("Che, Ok.\n");

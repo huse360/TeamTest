@@ -11,7 +11,7 @@ int main ()
 	
 	//functionJoaco();
 	//functionCristian();
-	//functionJulio();
+	functionJulio();
 	//functionJesu();
 	functionHuso();
     	
