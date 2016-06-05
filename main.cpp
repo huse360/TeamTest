@@ -10,7 +10,7 @@ int main ()
     printf ("\n*** main ***\n\n");
 	
 	//functionJoaco();
-	//functionCristian();
+	functionCristian();
 	functionJulio();
 	//functionJesu();
 	functionHuso();
