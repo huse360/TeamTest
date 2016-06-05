@@ -44,6 +44,11 @@ git status
 
 # Para actualizar los cambios 
 
-de tu repositorio local al repositorio remoto (en github)
+De tu repositorio local al repositorio remoto (en github):
 
 git push
+
+Del repositorio remoto (en github) hacia tu repositorio local:
+(Esto es util para obtener en la máquina local los cambios que han hecho otros colaboradores)
+
+git pull origin master
