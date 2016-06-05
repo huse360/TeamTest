@@ -12,7 +12,7 @@ int main ()
 	//functionJoaco();
 	functionCristian();
 	functionJulio();
-	//functionJesu();
+	functionJesu();
 	functionHuso();
     	
 	return 0;
